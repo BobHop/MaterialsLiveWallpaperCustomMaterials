@@ -4,4 +4,5 @@ These materials were made with free textures from:
   - TextureCan.com
   - BlendKit.com
 
-with minimal modifications such as contrast / saturation / tiling.
+Mostly, I adjusted things like contrast, saturation, tiling.
+Sometimes I reworked the maps altogether to improve the material.
